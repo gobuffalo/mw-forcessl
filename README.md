@@ -1,7 +1,10 @@
 # mw-forcessl
 
-[![](https://github.com/gobuffalo/mw-forcessl/workflows/Tests/badge.svg)](https://github.com/gobuffalo/mw-forcessl/actions)
-[![GoDoc](https://godoc.org/github.com/gobuffalo/mw-forcessl?status.svg)](https://godoc.org/github.com/gobuffalo/mw-forcessl)
+[![Standard Test](https://github.com/gobuffalo/mw-forcessl/actions/workflows/standard-go-test.yml/badge.svg)](https://github.com/gobuffalo/mw-forcessl/actions/workflows/standard-go-test.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/gobuffalo/mw-forcessl.svg)](https://pkg.go.dev/github.com/gobuffalo/mw-forcessl)
+
+NOTE: v1.0.2 will be the last version of this module and it will be deprecated.
+Use <https://github.com/gobuffalo/middleware> instead.
 
 ### Requirements
 
@@ -13,5 +16,3 @@
 ```bash
 $ go get github.com/gobuffalo/mw-forcessl
 ```
-
----
